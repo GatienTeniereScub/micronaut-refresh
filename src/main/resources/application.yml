@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: micronaut-refresh
+  endpoints:
+    refresh:
+      enabled: Boolean
+      sensitive: Boolean
