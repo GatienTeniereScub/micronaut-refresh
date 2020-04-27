@@ -3,5 +3,5 @@ micronaut:
     name: micronaut-refresh
   endpoints:
     refresh:
-      enabled: Boolean
-      sensitive: Boolean
+      enabled: true
+      sensitive: true
